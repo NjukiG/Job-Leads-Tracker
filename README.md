@@ -1,4 +1,4 @@
-# coc8640b4ab7ea074c56f6bdc
+# Job Leads Tracker
 
 Quick start:
 
@@ -6,7 +6,5 @@ Quick start:
 $ npm install
 $ npm start
 ````
-
-# Job Leads Tracker
 
 
